@@ -1,45 +1,54 @@
-# spacex-falcon-9-landing-prediction
-IBM Applied Data Science Capstone Project – Predicting SpaceX Falcon 9 First Stage Landing Success
+# Nely Pedrosa | Data Analytics Portfolio
 
-IBM Applied Data Science Capstone Project
+## About Me
 
-## Project Overview
+I am a Food Engineer and data analytics professional with extensive experience in food quality, applied research, laboratory operations, and technical consulting. I am currently completing an MBA in Data Science at Southeastern University.
 
-This project analyzes SpaceX Falcon 9 launch data to identify factors associated with successful first-stage landings and to build machine learning models for predicting landing outcomes.
+My professional interests include data analytics, quality improvement, food systems, and data-driven decision-making.
 
-## Project Workflow
+## Featured Project
 
-- Data collection using the SpaceX REST API
-- Web scraping and data wrangling
-- Exploratory Data Analysis (EDA)
-- SQL analysis
-- Interactive geographic visualization with Folium
-- Interactive dashboard development with Plotly Dash
-- Machine learning classification and model evaluation
+### SpaceX Falcon 9 Landing Prediction
 
-## Machine Learning Models
+This project was completed as part of the IBM Applied Data Science Capstone. The objective was to analyze SpaceX Falcon 9 launch data and identify factors associated with successful first-stage landings.
 
-The following classification models were evaluated:
+The project included data collection, data wrangling, exploratory data analysis, interactive visualizations, and machine learning classification models.
 
-- Logistic Regression
-- Support Vector Machine (SVM)
-- Decision Tree
-- K-Nearest Neighbors (KNN)
+### Tools and Technologies
 
-The Decision Tree achieved the highest classification accuracy in the analysis.
+- Python
+- Pandas and NumPy
+- SQL
+- REST APIs and Web Scraping
+- Matplotlib and Plotly
+- Dash
+- Folium
+- Scikit-learn
+- Machine Learning
 
-## Repository Contents
+## Key Findings
 
-This repository contains the completed notebooks and files developed throughout the IBM Applied Data Science Capstone project, including data collection, data wrangling, exploratory analysis, SQL analysis, interactive visual analytics, dashboard development, and predictive analysis.
+- Launch success varied across SpaceX launch sites.
+- Payload mass and booster characteristics were explored in relation to landing success.
+- Interactive maps helped visualize launch sites and their proximity to geographic features.
+- Multiple classification models were evaluated to predict Falcon 9 first-stage landing success.
+- The Decision Tree model achieved the highest test accuracy of approximately 87.68%.
 
-## Final Presentation
+## Project Components
 
-The final project presentation summarizes the methodology, visualizations, key findings, and machine learning results.
+The repository includes the completed notebooks and files covering:
 
-## Tools and Technologies
+1. Data Collection using the SpaceX REST API
+2. Web Scraping
+3. Data Wrangling
+4. Exploratory Data Analysis with SQL
+5. Exploratory Data Analysis and Data Visualization
+6. Interactive Visual Analytics with Folium
+7. Interactive Dashboard with Plotly Dash
+8. Machine Learning Prediction
 
-Python | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Dash | Folium | SQL | Scikit-learn | Jupyter Notebook
+## Capstone Project
 
-## Author
+**IBM Applied Data Science Capstone – SpaceX Falcon 9 Landing Prediction**
 
-Nely Pedrosa
+The complete project files, notebooks, analyses, and visualizations are available in this repository.
