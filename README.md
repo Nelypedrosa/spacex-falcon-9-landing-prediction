@@ -52,7 +52,10 @@ The repository includes the completed notebooks and files covering:
 **IBM Applied Data Science Capstone – SpaceX Falcon 9 Landing Prediction**
 
 The complete project files, notebooks, analyses, and visualizations are available in this repository.
+### Interactive Launch Site Map
 <img width="912" height="476" alt="image" src="https://github.com/user-attachments/assets/9ac3e0f4-4bcb-4369-af75-b4bbe5e853de" />
+
+### Payload and Launch Success Visualization
 
 <img width="1897" height="492" alt="image" src="https://github.com/user-attachments/assets/6392f882-7554-49a4-a015-7d4354800672" />
 
